@@ -1,8 +1,8 @@
 ### nome:
-# João Correa
+# João Vitor Correa
 
 ## Hardskills:
-HTML,  CSS, JAVASCRIPT, SQL
+HTML, CSS, JAVASCRIPT, NODE, SQL
 
 ##  Softskills:
-Comunicação, Trabalho em grupo, Proatividade e Organização
+Comunicação, Trabalho em grupo, Proatividade e Organização.
