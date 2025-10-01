@@ -1,5 +1,5 @@
 ### nome:
-# João Vitor Correa
+# João Correa
 
 ## Hardskills:
 HTML, CSS, JAVASCRIPT, NODE, SQL
