@@ -1,9 +1,9 @@
 ### João Correa
 
 ## 💻 Hard Skills
-- **.NET / ASP.NET** – Desenvolvimento de aplicações web robustas  
+- **.NET – Desenvolvimento de aplicações web  
 - **C#** – Programação orientada a objetos 
-- **Desenvolvimento Web:** HTML5 | CSS3 | JavaScript – front-end responsivo  
+- **Desenvolvimento Web:** HTML5 | CSS3 | JavaScript – front-end
 - **Banco de Dados:** SQL – modelagem e consultas eficientes  
 - **Node.js** – Back-end e APIs escaláveis  
 - **APIs REST** – Integração de sistemas e serviços
